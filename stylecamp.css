@@ -1,0 +1,66 @@
+.dp img{
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+}
+.dp{
+    margin-top: 7px; 
+    padding-left: 43px;
+}
+.left{
+     border-radius: 4%;
+     background-color: white;
+     justify-content: center;
+     align-items: center;
+     
+}
+.intro{
+    font-size: 12px;
+    justify-content: center;
+    align-items: center;
+    width: 160px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.intro h2{
+    font-size: 14px;
+}
+.intro p{
+    margin: 0px;
+}
+.view{
+    justify-content: center;
+    align-items: left;
+    display: flex;
+    flex-direction: column;
+    padding-left: 6px;
+    font-size: 9px;
+}
+.premium{
+    justify-content: center;
+    align-items: left;
+    display: flex;
+    flex-direction: column;
+    padding-left: 6px;
+    font-size: 9px;
+}
+div.items{
+    justify-content: center;
+    align-items: left;
+    display: flex;
+    flex-direction: column;
+    padding-left: 6px;
+    font-size: 9px;
+}
+.right{
+    width: 315px;
+    height: 319px;
+    background-color: white;
+}
+.topcourses{
+    background-color: white;
+}
